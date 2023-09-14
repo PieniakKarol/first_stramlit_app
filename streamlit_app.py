@@ -7,3 +7,5 @@ streamlit.header('🥣 🥗 🐔 🥑🍞')
 streamlit.header('They eat alone.')
 
 streamlit.text('In the dark.')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
